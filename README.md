@@ -29,7 +29,7 @@
 
 ## 📊 GitHub Stats
 
-![Babloo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=babluverse&show_icons=true&theme=dark&hide_border=true)
+![Babloo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=babluverse&show_icons=true&theme=dark&hide_border=true
 
 ---
 
